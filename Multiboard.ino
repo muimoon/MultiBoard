@@ -5,7 +5,7 @@
 
 //IRsend irsend;
 
-LiquidCrystal lcd(7, 6, 5, 4, 9, 2);
+LiquidCrystal lcd(2, 4, 5, 6, 7, 9);
 
 const int RECV_PIN = 10;
 //const int SENDV_PIN = 3; //IRsend default output 3
