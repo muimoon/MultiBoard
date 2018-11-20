@@ -1,3 +1,5 @@
+#include <LiquidCrystal_I2C.h>
+
 #include <IRremote.h>
 #include <LiquidCrystal.h>
 #include <dht.h>
